@@ -11,7 +11,7 @@ public class Array2D {
 				nums[i][j]=(int) (Math.random()*10);
 				System.out.print(nums[i][j]+" ");
 			}
-			System.out.println();
+			System.out.print();
 		}
 		
 
